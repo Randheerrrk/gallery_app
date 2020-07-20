@@ -2,7 +2,7 @@
   "name": "react-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Randheerrrk/gallery_app.github.io/",
+  "homepage": "https://github.com/Randheerrrk/gallery_app.github.io/public/",
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27",

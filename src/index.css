@@ -1,13 +1,53 @@
-body {
+.App {
+  font-family: sans-serif;
+  text-align: center;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.name {
+  background-color: rgb(41, 41, 41);
+  font-size: 3em;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  color: rgba(235, 229, 229, 1);
+  text-shadow: 0 0 5px rgba(235, 235, 235, .8);
+
+}
+
+img {
+  width: 1280px;
+  height: 720px;
+}
+
+.card {
+  background-color: rgb(41, 41, 41);
+  width: 1280px;
+  height: 750px;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 20px;
+  box-shadow: 0 0 25px rgba(31, 31, 31, .9);
+}
+
+.card img {
+  padding: 0;
+}
+.card p {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  transition: 1s;
+}
+
+.card:hover {
+  width: 1300px;
+  height: 750px;
+}
+
+.card img:hover {
+  width:1300px;
+  height: 750px;
 }

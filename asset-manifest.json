@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Randheerrrk/gallery_app/static/css/main.8abe8b4d.chunk.css",
-    "main.js": "/Randheerrrk/gallery_app/static/js/main.d746da1f.chunk.js",
-    "main.js.map": "/Randheerrrk/gallery_app/static/js/main.d746da1f.chunk.js.map",
+    "main.js": "/Randheerrrk/gallery_app/static/js/main.ade6a63d.chunk.js",
+    "main.js.map": "/Randheerrrk/gallery_app/static/js/main.ade6a63d.chunk.js.map",
     "runtime-main.js": "/Randheerrrk/gallery_app/static/js/runtime-main.c13fbe2f.js",
     "runtime-main.js.map": "/Randheerrrk/gallery_app/static/js/runtime-main.c13fbe2f.js.map",
     "static/css/2.829c9cb5.chunk.css": "/Randheerrrk/gallery_app/static/css/2.829c9cb5.chunk.css",
     "static/js/2.e77d7be0.chunk.js": "/Randheerrrk/gallery_app/static/js/2.e77d7be0.chunk.js",
     "static/js/2.e77d7be0.chunk.js.map": "/Randheerrrk/gallery_app/static/js/2.e77d7be0.chunk.js.map",
     "index.html": "/Randheerrrk/gallery_app/index.html",
-    "precache-manifest.b0ff962de1778b1d2645499a7947e4be.js": "/Randheerrrk/gallery_app/precache-manifest.b0ff962de1778b1d2645499a7947e4be.js",
+    "precache-manifest.978314309ca198f1daf8d34864a598cd.js": "/Randheerrrk/gallery_app/precache-manifest.978314309ca198f1daf8d34864a598cd.js",
     "service-worker.js": "/Randheerrrk/gallery_app/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/Randheerrrk/gallery_app/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.8abe8b4d.chunk.css.map": "/Randheerrrk/gallery_app/static/css/main.8abe8b4d.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.e77d7be0.chunk.js",
     "static/css/main.8abe8b4d.chunk.css",
-    "static/js/main.d746da1f.chunk.js"
+    "static/js/main.ade6a63d.chunk.js"
   ]
 }

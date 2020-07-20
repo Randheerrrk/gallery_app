@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eed8a5c4213288ddc9a8eee9c1c8392d",
+    "revision": "673e4008b2654139f06e1c7ba86263f1",
     "url": "/Randheerrrk/gallery_app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Randheerrrk/gallery_app/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "520abe580234c61cc061",
+    "revision": "41274420270a71a89855",
     "url": "/Randheerrrk/gallery_app/static/css/main.8abe8b4d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Randheerrrk/gallery_app/static/js/2.e77d7be0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "520abe580234c61cc061",
-    "url": "/Randheerrrk/gallery_app/static/js/main.d746da1f.chunk.js"
+    "revision": "41274420270a71a89855",
+    "url": "/Randheerrrk/gallery_app/static/js/main.ade6a63d.chunk.js"
   },
   {
     "revision": "7d013b7973bf4e264593",
